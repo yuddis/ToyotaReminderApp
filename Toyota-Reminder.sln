@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toyota-Reminder", "Toyota-Reminder\Toyota-Reminder.csproj", "{64730445-2E00-4DB5-9B3B-B128175AF04C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyotaDAL", "ToyotaDAL\ToyotaDAL.csproj", "{77DEC7BA-6BFA-4076-89C4-7A955E4BD6B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64730445-2E00-4DB5-9B3B-B128175AF04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64730445-2E00-4DB5-9B3B-B128175AF04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64730445-2E00-4DB5-9B3B-B128175AF04C}.Debug|x86.ActiveCfg = Debug|x86
+		{64730445-2E00-4DB5-9B3B-B128175AF04C}.Debug|x86.Build.0 = Debug|x86
+		{64730445-2E00-4DB5-9B3B-B128175AF04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64730445-2E00-4DB5-9B3B-B128175AF04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64730445-2E00-4DB5-9B3B-B128175AF04C}.Release|x86.ActiveCfg = Release|x86
+		{64730445-2E00-4DB5-9B3B-B128175AF04C}.Release|x86.Build.0 = Release|x86
+		{77DEC7BA-6BFA-4076-89C4-7A955E4BD6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DEC7BA-6BFA-4076-89C4-7A955E4BD6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DEC7BA-6BFA-4076-89C4-7A955E4BD6B7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{77DEC7BA-6BFA-4076-89C4-7A955E4BD6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DEC7BA-6BFA-4076-89C4-7A955E4BD6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DEC7BA-6BFA-4076-89C4-7A955E4BD6B7}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
